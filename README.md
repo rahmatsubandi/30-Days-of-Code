@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.hackerrank.com/rhmtin12">
-    <img alt="HackerRank" src="https://raw.githubusercontent.com/rahmatsubamdi/HackerRankJS/master/hacker-rank-logo.png">
+    <img alt="HackerRank" src="https://raw.githubusercontent.com/rahmatsubandi/HackerRankJS/master/hacker-rank-logo.png">
   </a>
 </p>
 <p align="center">
