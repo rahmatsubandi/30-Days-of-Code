@@ -12,10 +12,10 @@
 
 # 30 Days of Code
 
-|     | Day |                                    Problem                                    |            Solution            | Difficulty | Points | Success Rate | Note |
-| --- | :-: | :---------------------------------------------------------------------------: | :----------------------------: | :--------: | :----: | :----------: | :--: |
-|     |  1  |   [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem)   | [JavaScript](30-days-of-code/) |    Easy    |   30   |    86.15%    |      |
-|     |  0  | [Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) | [JavaScript](30-days-of-code/) |    Easy    |   30   |    87.19%    |      |
+|     | Day |                                    Problem                                    |                   Solution                    | Difficulty | Points | Success Rate | Note |
+| --- | :-: | :---------------------------------------------------------------------------: | :-------------------------------------------: | :--------: | :----: | :----------: | :--: |
+|     |  1  |   [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem)   | [JavaScript](30DaysofCode/Day1-DataTypes.js)  |    Easy    |   30   |    86.15%    |      |
+|     |  0  | [Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) | [JavaScript](30DaysofCode/Day0-HelloWorld.js) |    Easy    |   30   |    87.19%    |      |
 
 ---
 
@@ -25,8 +25,8 @@
 
 ### Warmup
 
-|     |                                          Problem                                           |    Solution     | Difficulty | Points | Success Rate | Note |
-| --- | :----------------------------------------------------------------------------------------: | :-------------: | :--------: | :----: | :----------: | :--: |
-|     | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [JavaScript](#) |    Easy    |   10   |    95.44%    |      |
-|     |     [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)     | [JavaScript](#) |    Easy    |   10   |    94.23%    |      |
-|     |       [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)       | [JavaScript](#) |    Easy    |   10   |    98.34%    |      |
+|     |                                          Problem                                           |                               Solution                               | Difficulty | Points | Success Rate | Note |
+| --- | :----------------------------------------------------------------------------------------: | :------------------------------------------------------------------: | :--------: | :----: | :----------: | :--: |
+|     | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [JavaScript](ProblemSolving/Algorithms/Warmup/compareTheTriplets.js) |    Easy    |   10   |    95.44%    |      |
+|     |     [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)     |   [JavaScript](ProblemSolving/Algorithms/Warmup/simpleArraySum.js)   |    Easy    |   10   |    94.23%    |      |
+|     |       [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)       |    [JavaScript](ProblemSolving/Algorithms/Warmup/solveMeFirst.js)    |    Easy    |   10   |    98.34%    |      |
