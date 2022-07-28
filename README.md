@@ -10,6 +10,15 @@
   The results of the answers on HackerRank that I have completed:
 </p>
 
+# 10 Days of Code
+
+|     | Day |                                     Problem                                     |                       Solution                       | Difficulty | Points | Success Rate | Note |
+| --- | :-: | :-----------------------------------------------------------------------------: | :--------------------------------------------------: | :--------: | :----: | :----------: | :--: |
+|     |  0  |   [Data Types](https://www.hackerrank.com/challenges/js10-data-types/problem)   |  [JavaScript](10DaysOfJavascript/Day0-DataTypes.js)  |    Easy    |   10   |    95.48%    |      |
+|     |  0  | [Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem) | [JavaScript](10DaysOfJavascript/Day0-HelloWorld!.js) |    Easy    |   10   |    91.85%    |      |
+
+---
+
 # 30 Days of Code
 
 |     | Day |                                    Problem                                    |                   Solution                    | Difficulty | Points | Success Rate | Note |
