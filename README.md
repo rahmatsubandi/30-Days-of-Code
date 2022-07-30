@@ -14,6 +14,9 @@
 
 |     | Day |                                             Problem                                             |                           Solution                           | Difficulty | Points | Success Rate | Note |
 | --- | :-: | :---------------------------------------------------------------------------------------------: | :----------------------------------------------------------: | :--------: | :----: | :----------: | :--: |
+|     |  2  |                [Loops](https://www.hackerrank.com/challenges/js10-loops/problem)                |        [JavaScript](10DaysOfJavascript/Day2-Loops.js)        |    Easy    |   10   |    98.40%    |      |
+|     |  2  |   [Conditional Statements: Switch](https://www.hackerrank.com/challenges/js10-switch/problem)   |       [JavaScript](10DaysOfJavascript/Day2-Switch.js)        |    Easy    |   10   |    98.58%    |      |
+|     |  2  |  [Conditional Statements: If-Else](https://www.hackerrank.com/challenges/js10-if-else/problem)  |       [JavaScript](10DaysOfJavascript/Day2-IfElse.js)        |    Easy    |   10   |    99.06%    |      |
 |     |  1  |        [Let and Const](https://www.hackerrank.com/challenges/js10-let-and-const/problem)        |     [JavaScript](10DaysOfJavascript/Day1-LetandConst.js)     |    Easy    |   10   |    98.60%    |      |
 |     |  1  |            [Functions](https://www.hackerrank.com/challenges/js10-function/problem)             |      [JavaScript](10DaysOfJavascript/Day1-Functions.js)      |    Easy    |   10   |    99.92%    |      |
 |     |  1  | [Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem) | [JavaScript](10DaysOfJavascript/Day1-ArithmeticOperators.js) |    Easy    |   10   |    99.13%    |      |
@@ -24,11 +27,12 @@
 
 # 30 Days of Code
 
-|     | Day |                                    Problem                                    |                   Solution                    | Difficulty | Points | Success Rate | Note |
-| --- | :-: | :---------------------------------------------------------------------------: | :-------------------------------------------: | :--------: | :----: | :----------: | :--: |
-|     |  2  |    [Operators](https://www.hackerrank.com/challenges/30-operators/problem)    | [JavaScript](30DaysofCode/Day2-Operators.js)  |    Easy    |   30   |    92.91%    |      |
-|     |  1  |   [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem)   | [JavaScript](30DaysofCode/Day1-DataTypes.js)  |    Easy    |   30   |    86.15%    |      |
-|     |  0  | [Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) | [JavaScript](30DaysofCode/Day0-HelloWorld.js) |    Easy    |   30   |    87.19%    |      |
+|     | Day |                                                  Problem                                                   |                              Solution                              | Difficulty | Points | Success Rate | Note |
+| --- | :-: | :--------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------: | :--------: | :----: | :----------: | :--: |
+|     |  3  | [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [JavaScript](30DaysofCode/Day3-IntroToConditionalStatements.js.js) |    Easy    |   30   |    96.32%    |      |
+|     |  2  |                  [Operators](https://www.hackerrank.com/challenges/30-operators/problem)                   |            [JavaScript](30DaysofCode/Day2-Operators.js)            |    Easy    |   30   |    92.91%    |      |
+|     |  1  |                 [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem)                  |            [JavaScript](30DaysofCode/Day1-DataTypes.js)            |    Easy    |   30   |    86.15%    |      |
+|     |  0  |               [Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem)                |           [JavaScript](30DaysofCode/Day0-HelloWorld.js)            |    Easy    |   30   |    87.19%    |      |
 
 ---
 
