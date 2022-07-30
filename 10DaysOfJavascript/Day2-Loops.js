@@ -1,3 +1,8 @@
+/**
+ * The function takes a string as an argument, splits the string into an array, filters the array into
+ * two arrays, one with vowels and one with consonants, and then logs each array to the console.
+ * @param s - a string to split (in this case, the string "javascriptloops")
+ */
 function vowelsAndConsonants(s) {
   let vowelsList = ["a", "e", "i", "o", "u"];
 
