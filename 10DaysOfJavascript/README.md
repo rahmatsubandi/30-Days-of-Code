@@ -2,6 +2,9 @@
 
 |     | Day |                                             Problem                                             |                 Solution                  | Difficulty | Points | Success Rate | Note |
 | --- | :-: | :---------------------------------------------------------------------------------------------: | :---------------------------------------: | :--------: | :----: | :----------: | :--: |
+|     |  3  |                [Throw](https://www.hackerrank.com/challenges/js10-throw/problem)                |        [JavaScript](Day3-Throw.js)        |    Easy    |   10   |    99.47%    |      |
+|     |  3  |   [Try, Catch, and Finally](https://www.hackerrank.com/challenges/js10-try-catch-and-finally)   | [JavaScript](Day3-TryCatchAndFinally.js)  |    Easy    |   10   |    99.01%    |      |
+|     |  3  |               [Arrays](https://www.hackerrank.com/challenges/js10-arrays/problem)               |       [JavaScript](Day3-Arrays.js)        |    Easy    |   10   |    95.55%    |      |
 |     |  2  |                [Loops](https://www.hackerrank.com/challenges/js10-loops/problem)                |        [JavaScript](Day2-Loops.js)        |    Easy    |   10   |    98.40%    |      |
 |     |  2  |   [Conditional Statements: Switch](https://www.hackerrank.com/challenges/js10-switch/problem)   |       [JavaScript](Day2-Switch.js)        |    Easy    |   10   |    98.58%    |      |
 |     |  2  |  [Conditional Statements: If-Else](https://www.hackerrank.com/challenges/js10-if-else/problem)  |       [JavaScript](Day2-IfElse.js)        |    Easy    |   10   |    99.06%    |      |
