@@ -14,6 +14,9 @@
 
 |     | Day |                                             Problem                                             |                            Solution                             | Difficulty | Points | Success Rate | Note |
 | --- | :-: | :---------------------------------------------------------------------------------------------: | :-------------------------------------------------------------: | :--------: | :----: | :----------: | :--: |
+|     |  5  |          [Arrow Functions](https://www.hackerrank.com/challenges/js10-arrows/problem)           |     [JavaScript](10DaysOfJavascript/Day5-ArrowFunctions.js)     |    Easy    |   15   |    99.43%    |      |
+|     |  5  |    [Template Literals](https://www.hackerrank.com/challenges/js10-template-literals/problem)    |    [JavaScript](10DaysOfJavascript/Day5-TemplateLiterals.js)    |    Easy    |   15   |    99.57%    |      |
+|     |  5  |          [Inheritance](https://www.hackerrank.com/challenges/js10-inheritance/problem)          |      [JavaScript](10DaysOfJavascript/Day5-Inheritance.js)       |    Easy    |   15   |    99.39%    |      |
 |     |  4  |               [Classes](https://www.hackerrank.com/challenges/js10-class/problem)               |        [JavaScript](10DaysOfJavascript/Day4-Classes.js)         |    Easy    |   15   |    99.65%    |      |
 |     |  4  |        [Count Objects](https://www.hackerrank.com/challenges/js10-count-objects/problem)        |      [JavaScript](10DaysOfJavascript/Day4-CountObjects.js)      |    Easy    |   15   |    99.65%    |      |
 |     |  4  |     [Create a Rectangle Object](https://www.hackerrank.com/challenges/js10-objects/problem)     | [JavaScript](10DaysOfJavascript/Day4-CreateARectangleObject.js) |    Easy    |   15   |    99.70%    |      |
@@ -35,6 +38,7 @@
 
 |     | Day |                                                  Problem                                                   |                            Solution                             | Difficulty | Points | Success Rate | Note |
 | --- | :-: | :--------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------: | :--------: | :----: | :----------: | :--: |
+|     |  6  |                [Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem)                |          [JavaScript](30DaysofCode/Day6-LetsReview.js)          |    Easy    |   30   |    96.12%    |      |
 |     |  5  |                      [Loops](https://www.hackerrank.com/challenges/30-loops/problem)                       |            [JavaScript](30DaysofCode/Day5-Loops.js)             |    Easy    |   30   |    98.65%    |      |
 |     |  4  |          [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)          |       [JavaScript](30DaysofCode/Day4-ClassVsInstance.js)        |    Easy    |   30   |    96.55%    |      |
 |     |  3  | [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [JavaScript](30DaysofCode/Day3-IntroToConditionalStatements.js) |    Easy    |   30   |    96.32%    |      |

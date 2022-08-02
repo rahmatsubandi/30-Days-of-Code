@@ -2,6 +2,9 @@
 
 |     | Day |                                             Problem                                             |                   Solution                   | Difficulty | Points | Success Rate | Note |
 | --- | :-: | :---------------------------------------------------------------------------------------------: | :------------------------------------------: | :--------: | :----: | :----------: | :--: |
+|     |  5  |          [Arrow Functions](https://www.hackerrank.com/challenges/js10-arrows/problem)           |     [JavaScript](Day5-ArrowFunctions.js)     |    Easy    |   15   |    99.43%    |      |
+|     |  5  |    [Template Literals](https://www.hackerrank.com/challenges/js10-template-literals/problem)    |    [JavaScript](Day5-TemplateLiterals.js)    |    Easy    |   15   |    99.57%    |      |
+|     |  5  |          [Inheritance](https://www.hackerrank.com/challenges/js10-inheritance/problem)          |      [JavaScript](Day5-Inheritance.js)       |    Easy    |   15   |    99.39%    |      |
 |     |  4  |               [Classes](https://www.hackerrank.com/challenges/js10-class/problem)               |        [JavaScript](Day4-Classes.js)         |    Easy    |   15   |    99.65%    |      |
 |     |  4  |        [Count Objects](https://www.hackerrank.com/challenges/js10-count-objects/problem)        |      [JavaScript](Day4-CountObjects.js)      |    Easy    |   15   |    99.65%    |      |
 |     |  4  |     [Create a Rectangle Object](https://www.hackerrank.com/challenges/js10-objects/problem)     | [JavaScript](Day4-CreateARectangleObject.js) |    Easy    |   15   |    99.70%    |      |
