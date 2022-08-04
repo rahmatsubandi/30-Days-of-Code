@@ -2,6 +2,8 @@
 
 |     | Day |                                                  Problem                                                   |                      Solution                      | Difficulty | Points | Success Rate | Note |
 | --- | :-: | :--------------------------------------------------------------------------------------------------------: | :------------------------------------------------: | :--------: | :----: | :----------: | :--: |
+| ⭐  |  8  |      [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)       |     [JavaScript](Day8-DictionariesAndMaps.js)      |    Easy    |   30   |    92.30%    |      |
+| ⭐  |  7  |                     [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem)                      |            [JavaScript](Day7-Arrays.js)            |    Easy    |   30   |    98.06%    |      |
 |     |  6  |                [Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem)                |          [JavaScript](Day6-LetsReview.js)          |    Easy    |   30   |    96.12%    |      |
 |     |  5  |                      [Loops](https://www.hackerrank.com/challenges/30-loops/problem)                       |            [JavaScript](Day5-Loops.js)             |    Easy    |   30   |    98.65%    |      |
 |     |  4  |          [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)          |       [JavaScript](Day4-ClassVsInstance.js)        |    Easy    |   30   |    96.55%    |      |

@@ -2,6 +2,8 @@
 
 |     | Day |                                             Problem                                             |                   Solution                   | Difficulty | Points | Success Rate | Note |
 | --- | :-: | :---------------------------------------------------------------------------------------------: | :------------------------------------------: | :--------: | :----: | :----------: | :--: |
+|     |  6  |           [JavaScript Dates](https://www.hackerrank.com/challenges/js10-date/problem)           |    [JavaScript](Day6-JavaScriptDates.js)     |    Easy    |   15   |    99.43%    |      |
+|     |  6  |         [Bitwise Operators](https://www.hackerrank.com/challenges/js10-bitwise/problem)         |    [JavaScript](Day6-BitwiseOperators.js)    |    Easy    |   15   |    99.42%    |      |
 |     |  5  |          [Arrow Functions](https://www.hackerrank.com/challenges/js10-arrows/problem)           |     [JavaScript](Day5-ArrowFunctions.js)     |    Easy    |   15   |    99.43%    |      |
 |     |  5  |    [Template Literals](https://www.hackerrank.com/challenges/js10-template-literals/problem)    |    [JavaScript](Day5-TemplateLiterals.js)    |    Easy    |   15   |    99.57%    |      |
 |     |  5  |          [Inheritance](https://www.hackerrank.com/challenges/js10-inheritance/problem)          |      [JavaScript](Day5-Inheritance.js)       |    Easy    |   15   |    99.39%    |      |
