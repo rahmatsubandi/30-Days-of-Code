@@ -14,6 +14,9 @@
 
 |     | Day |                                             Problem                                             |                            Solution                             | Difficulty | Points | Success Rate | Note |
 | --- | :-: | :---------------------------------------------------------------------------------------------: | :-------------------------------------------------------------: | :--------: | :----: | :----------: | :--: |
+|     |  7  |     [Regular Expressions III](https://www.hackerrank.com/challenges/js10-regexp-3/problem)      | [JavaScript](10DaysOfJavascript/Day7-RegularExpressionsIII.js)  |    Easy    |   15   |    99.76%    |      |
+|     |  7  |      [Regular Expressions II](https://www.hackerrank.com/challenges/js10-regexp-2/problem)      |  [JavaScript](10DaysOfJavascript/Day7-RegularExpressionsII.js)  |    Easy    |   15   |    97.86%    |      |
+|     |  7  |      [Regular Expressions I](https://www.hackerrank.com/challenges/js10-regexp-1/problem)       |  [JavaScript](10DaysOfJavascript/Day7-RegularExpressionsI.js)   |    Easy    |   15   |    97.70%    |      |
 |     |  6  |           [JavaScript Dates](https://www.hackerrank.com/challenges/js10-date/problem)           |    [JavaScript](10DaysOfJavascript/Day6-JavaScriptDates.js)     |    Easy    |   15   |    99.43%    |      |
 |     |  6  |         [Bitwise Operators](https://www.hackerrank.com/challenges/js10-bitwise/problem)         |    [JavaScript](10DaysOfJavascript/Day6-BitwiseOperators.js)    |    Easy    |   15   |    99.42%    |      |
 |     |  5  |          [Arrow Functions](https://www.hackerrank.com/challenges/js10-arrows/problem)           |     [JavaScript](10DaysOfJavascript/Day5-ArrowFunctions.js)     |    Easy    |   15   |    99.43%    |      |
@@ -40,6 +43,7 @@
 
 |     | Day |                                                  Problem                                                   |                            Solution                             | Difficulty | Points | Success Rate | Note |
 | --- | :-: | :--------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------: | :--------: | :----: | :----------: | :--: |
+|     |  9  |                 [Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem)                  |          [JavaScript](30DaysofCode/Day9-Recursion3.js)          |    Easy    |   30   |    98.74%    |      |
 | ⭐  |  8  |      [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)       |     [JavaScript](30DaysofCode/Day8-DictionariesAndMaps.js)      |    Easy    |   30   |    92.30%    |      |
 | ⭐  |  7  |                     [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem)                      |            [JavaScript](30DaysofCode/Day7-Arrays.js)            |    Easy    |   30   |    98.06%    |      |
 |     |  6  |                [Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem)                |          [JavaScript](30DaysofCode/Day6-LetsReview.js)          |    Easy    |   30   |    96.12%    |      |

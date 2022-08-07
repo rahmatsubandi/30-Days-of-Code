@@ -2,6 +2,9 @@
 
 |     | Day |                                             Problem                                             |                   Solution                   | Difficulty | Points | Success Rate | Note |
 | --- | :-: | :---------------------------------------------------------------------------------------------: | :------------------------------------------: | :--------: | :----: | :----------: | :--: |
+|     |  7  |     [Regular Expressions III](https://www.hackerrank.com/challenges/js10-regexp-3/problem)      | [JavaScript](Day7-RegularExpressionsIII.js)  |    Easy    |   15   |    99.76%    |      |
+|     |  7  |      [Regular Expressions II](https://www.hackerrank.com/challenges/js10-regexp-2/problem)      |  [JavaScript](Day7-RegularExpressionsII.js)  |    Easy    |   15   |    97.86%    |      |
+|     |  7  |      [Regular Expressions I](https://www.hackerrank.com/challenges/js10-regexp-1/problem)       |  [JavaScript](Day7-RegularExpressionsI.js)   |    Easy    |   15   |    97.70%    |      |
 |     |  6  |           [JavaScript Dates](https://www.hackerrank.com/challenges/js10-date/problem)           |    [JavaScript](Day6-JavaScriptDates.js)     |    Easy    |   15   |    99.43%    |      |
 |     |  6  |         [Bitwise Operators](https://www.hackerrank.com/challenges/js10-bitwise/problem)         |    [JavaScript](Day6-BitwiseOperators.js)    |    Easy    |   15   |    99.42%    |      |
 |     |  5  |          [Arrow Functions](https://www.hackerrank.com/challenges/js10-arrows/problem)           |     [JavaScript](Day5-ArrowFunctions.js)     |    Easy    |   15   |    99.43%    |      |
