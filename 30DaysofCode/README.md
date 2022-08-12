@@ -2,7 +2,8 @@
 
 |     | Day |                                                  Problem                                                   |                      Solution                      | Difficulty | Points | Success Rate | Note |
 | --- | :-: | :--------------------------------------------------------------------------------------------------------: | :------------------------------------------------: | :--------: | :----: | :----------: | :--: |
-|     | 11  |                  [2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem)                   |            [JavaScript](Day11-2DArrays)            |    Easy    |   30   |    96.49%    |      |
+| ⭐  | 12  |                [Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem)                 |         [JavaScript](Day12-Inheritance.js)         |    Easy    |   30   |    97.92%    |      |
+|     | 11  |                  [2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem)                   |          [JavaScript](Day11-2DArrays.js)           |    Easy    |   30   |    96.49%    |      |
 |     | 10  |             [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem)              |        [JavaScript](Day10-BinaryNumbers.js)        |    Easy    |   30   |    94.82%    |      |
 |     |  9  |                 [Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem)                  |          [JavaScript](Day9-Recursion3.js)          |    Easy    |   30   |    98.74%    |      |
 | ⭐  |  8  |      [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)       |     [JavaScript](Day8-DictionariesAndMaps.js)      |    Easy    |   30   |    92.30%    |      |
